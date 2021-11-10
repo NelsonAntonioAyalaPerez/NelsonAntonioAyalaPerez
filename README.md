@@ -1,5 +1,4 @@
-# NelsonAntonioAyalaPerez/NelsonAntonioAyalaPerez.git
-https://github.com/NelsonAntonioAyalaPerez/NelsonAntonioAyalaPerez.git
+# NelsonAntonioAyalaPerez.github.io
 Ejemplo De Sitio Web
 
 La Url de este sitio es 
